@@ -148,17 +148,7 @@ nav{display:flex;justify-content:space-between;align-items:center;padding:20px 0
     transform:translateY(-10px);
 }
 
-.overlay{
-    position:absolute;
-    bottom:0;
-    left:0;
-    width:100%;
-    background:rgba(15,43,91,.92);
-    color:#fff;
-    padding:25px;
-    transform:translateY(72%);
-    transition:.4s;
-}
+.overlay{position:absolute;bottom:0;left:0;width:100%;background:rgba(15,43,91,.92);color:#fff;padding:25px;transform:translateY(60%);transition:.4s;}
 
 .service-card:hover .overlay{
     transform:translateY(0);
