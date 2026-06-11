@@ -153,7 +153,7 @@ nav{display:flex;justify-content:space-between;align-items:center;padding:20px 0
 .overlay p{opacity:0;margin-top:15px;text-align:center;transition:opacity .3s ease;}
 
 .service-card:hover .overlay p{opacity:1;}
-.overlay h3{text-align:center;margin:0;line-height:40px;}
+.overlay h3{color:#ffffff;text-align:center;margin:0;line-height:40px;}
 
 .holiday-btn{display:inline-block;margin-top:15px;padding:10px 20px;background:#F28C28;color:#fff;text-decoration:none;border-radius:8px;}
 
