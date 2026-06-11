@@ -165,19 +165,12 @@ nav{display:flex;justify-content:space-between;align-items:center;padding:20px 0
    RECRUTARE
 ========================= */
 
-.recruit{
-    background:#0F2B5B;
-    color:#fff;
-}
-
-.recruit h2{
-    color:#fff;
-}
-
-.recruit .card{
-    background:#fff;
-    color:#000;
-}
+.recruit{background:#0F2B5B;color:#fff;}
+.recruit h2{color:#fff;}
+.recruit .card{background:#fff;color:#000;}
+.recruit .card{text-align:center;min-height:180px;display:flex;flex-direction:column;justify-content:center;}
+.recruit .card h3{color:#0F2B5B;margin-bottom:15px;}
+.recruit .card p{color:#555;font-size:0.95rem;line-height:1.6;}
 
 /* =========================
    CONTACT
