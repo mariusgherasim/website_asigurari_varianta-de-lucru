@@ -153,33 +153,13 @@ nav{display:flex;justify-content:space-between;align-items:center;padding:20px 0
 
 /* imagini servicii */
 
-.viata{
-    background-image:url("images/viata.jpg");
-}
-
-.sanatate{
-    background-image:url("images/sanatate.jpg");
-}
-
-.locuinta{
-    background-image:url("images/locuinta.jpg");
-}
-
-.auto{
-    background-image:url("images/auto.jpg");
-}
-
-.business{
-    background-image:url("images/business.jpg");
-}
-
-.travel{
-    background-image:url("images/travel.jpg");
-}
-
-.holidays{
-    background-image:url("images/vacanta.jpg");
-}
+.viata{background-image:url("images/viata.jpg");}
+.sanatate{background-image:url("images/sanatate.jpg");}
+.locuinta{background-image:url("images/locuinta.jpg");}
+.auto{background-image:url("images/auto.jpg");}
+.business{background-image:url("images/business.jpg");}
+.travel{background-image:url("images/travel.jpg");}
+.holidays{background-image:url("images/vacanta.jpg");}
 
 /* =========================
    RECRUTARE
