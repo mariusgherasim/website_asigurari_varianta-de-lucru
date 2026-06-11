@@ -41,13 +41,7 @@ nav{display:flex;justify-content:space-between;align-items:center;padding:20px 0
 .hero-grid{display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:center;}
 .hero h1{font-size:3rem;margin-bottom:20px;}
 
-.hero img{
-    width:45%;
-    display:block;
-    margin-left:auto;
-    border-radius:20px;
-    box-shadow:0 10px 30px rgba(0,0,0,.15);
-}
+.hero img{width:45%;display:block;margin-left:auto;border-radius:20px;box-shadow:0 10px 30px rgba(0,0,0,.15);}
 
 /* =========================
    BUTTONS
@@ -84,7 +78,7 @@ nav{display:flex;justify-content:space-between;align-items:center;padding:20px 0
     left:50%;
     transform:translate(-50%,-50%);
     width:55%;
-    opacity:.08;
+    opacity:.12;
     z-index:1;
     pointer-events:none;
 }
